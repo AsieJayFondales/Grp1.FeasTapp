@@ -1,0 +1,14 @@
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+\!.elasticbeanstalk/*.cfg.yml
+\!.elasticbeanstalk/*.global.yml
+
+# Ignore deep learning model files
+best.pt
+mrcnn.bt
+*.pt
+*.bt
+
+# Ignore YAML files
+*.yaml
+*.yml
