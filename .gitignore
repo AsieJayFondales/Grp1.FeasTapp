@@ -9,6 +9,8 @@ mrcnn.bt
 *.pt
 *.bt
 
+*.json
+
 # Ignore YAML files
 *.yaml
 *.yml
